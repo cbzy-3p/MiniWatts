@@ -16,7 +16,7 @@
 
 从 [本仓库 Releases](https://github.com/cbzy-3p/MiniWatts/releases) 下载最新的
 `MiniWatts-unsigned.ipa`。如果 Releases 页面无法加载附件，也可以使用
-[最新 IPA 直链](https://raw.githubusercontent.com/cbzy-3p/MiniWatts/releases/latest/MiniWatts-unsigned.ipa)，
+[最新 IPA 直链](https://raw.githubusercontent.com/cbzy-3p/MiniWatts/master/releases/MiniWatts-unsigned.ipa)，
 再用你自己的 Apple ID 签名安装——[Sideloadly](https://sideloadly.io)、
 [AltStore](https://altstore.io)、[SideStore](https://sidestore.io) 和 Xcode 都可以。
 免费 Apple ID 可用，但应用 7 天后过期，需要重新签名。
