@@ -2,7 +2,7 @@
 
 **English** · [简体中文](README.zh-Hans.md)
 
-[![Build](https://github.com/ResistanceTo/MiniWatts/actions/workflows/build.yml/badge.svg)](https://github.com/ResistanceTo/MiniWatts/actions/workflows/build.yml)
+[![Build](https://github.com/cbzy-3p/MiniWatts/actions/workflows/build.yml/badge.svg)](https://github.com/cbzy-3p/MiniWatts/actions/workflows/build.yml)
 
 An iPhone battery and charging monitor built on Apple's private APIs. It reads the
 phone's own power-management sensors — the ones iOS uses to run the charge — and shows
@@ -19,9 +19,11 @@ heat, and what every temperature sensor in the phone is doing while it happens.
 
 ## Install
 
-Download the latest `MiniWatts-unsigned.ipa` from
-[Releases](https://github.com/ResistanceTo/MiniWatts/releases) and sign it with your own
-Apple ID — [Sideloadly](https://sideloadly.io), [AltStore](https://altstore.io),
+Download the latest `MiniWatts-unsigned.ipa` from the
+[cbzy-3p/MiniWatts Releases](https://github.com/cbzy-3p/MiniWatts/releases) and sign it with your own
+Apple ID. If the Release asset page cannot load, use the
+[direct IPA link](https://raw.githubusercontent.com/cbzy-3p/MiniWatts/master/releases/MiniWatts-unsigned.ipa).
+[Sideloadly](https://sideloadly.io), [AltStore](https://altstore.io),
 [SideStore](https://sidestore.io) and Xcode all do this. A free Apple ID works; the app
 then expires after seven days and you re-sign it.
 
