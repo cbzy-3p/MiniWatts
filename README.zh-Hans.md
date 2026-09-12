@@ -2,7 +2,7 @@
 
 [English](README.md) · **简体中文**
 
-[![Build](https://github.com/ResistanceTo/MiniWatts/actions/workflows/build.yml/badge.svg)](https://github.com/ResistanceTo/MiniWatts/actions/workflows/build.yml)
+[![Build](https://github.com/cbzy-3p/MiniWatts/actions/workflows/build.yml/badge.svg)](https://github.com/cbzy-3p/MiniWatts/actions/workflows/build.yml)
 
 一个用 Apple 私有 API 做的 iPhone 电池与充电信息 app。它读取手机自己的电源管理传感器——也就是 iOS 用来控制充电的那一套——显示充电器正在输出多少、其中有多少真正进到电芯、剩下的以多少热量散掉，以及这期间手机里每一个温度传感器的读数。
 
@@ -14,8 +14,10 @@
 
 ## 安装
 
-从 [Releases](https://github.com/ResistanceTo/MiniWatts/releases) 下载最新的
-`MiniWatts-unsigned.ipa`，用你自己的 Apple ID 签名安装——[Sideloadly](https://sideloadly.io)、
+从 [本仓库 Releases](https://github.com/cbzy-3p/MiniWatts/releases) 下载最新的
+`MiniWatts-unsigned.ipa`。如果 Releases 页面无法加载附件，也可以使用
+[最新 IPA 直链](https://raw.githubusercontent.com/cbzy-3p/MiniWatts/releases/latest/MiniWatts-unsigned.ipa)，
+再用你自己的 Apple ID 签名安装——[Sideloadly](https://sideloadly.io)、
 [AltStore](https://altstore.io)、[SideStore](https://sidestore.io) 和 Xcode 都可以。
 免费 Apple ID 可用，但应用 7 天后过期，需要重新签名。
 
